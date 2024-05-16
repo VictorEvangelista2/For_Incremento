@@ -1,19 +1,17 @@
 body {
     font-family: sans-serif;
-    background-color: #003c5fb2;    
+    background-color: #08151db2;    
     font-family: Louis George Cafe;
     font-weight: bold;
 }
 
 select {
     background-color: rgba(255, 255, 255, 0.438);
-    height: 130px;
-    width: 100px;
-    border-radius: 5px;
+    height: 120px;
+    width: 240px;
+    border-radius: 2px;
     box-shadow: 0 8px 2px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
-    
-
 }
 
 .container {
@@ -26,20 +24,26 @@ select {
 }
 
 input {
-    background-color: #007bffb6;
-    color: #ffffff;
+    background-color: #15181bb6;
+    color: #ffffffd0;
     padding: 10px 20px;
     border: none;
     border-radius: 12px;
     cursor: pointer;
     font-weight: bold;
-    width: 200px;
+    width: 250px;
     font-family: Louis George Cafe;
     transition: background-color 0.3s ease;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
+    
 }
 
+h4 {
+    margin-bottom: 20px;
+    font-size: x-large;
+}
 
-
-
-    
+button:hover {
+    background-color: #000000b2;
+    color:#0e0707e5;
+}
