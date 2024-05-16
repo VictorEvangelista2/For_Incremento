@@ -1,15 +1,15 @@
 # Implementação de Laço e Iterações 
 
-## Introdução - Código exemplo antes das alterações
+# Introdução - Código exemplo antes das alterações
 
-### O código exemplo de laços e iterações foi originado de [MDN web docs_](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration). 
+## O código exemplo de laços e iterações foi originado de [MDN web docs_](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration).
  - O JavaScript suporta um conjunto compacto de declarações, especificamente de fluxo de controle, que você pode utilizar para atribuir uma grande interatividade a páginas web. Este link citado anteriormente fornece uma visão geral destas declarações.
 
 ### Laços oferecem um jeito fácil e rápido de executar uma ação repetidas vezes. *Exemplo abaixo* 👇.
 
  - ![exemplo 1](imagens/Exemplo_1.png)
 
-### Agora são todas funções deste código citado anteriormente acima ☝️.
+## Agora são todas funções deste código citado anteriormente acima ☝️.
 
 ## Var
  - ![exemplo 2](imagens/Exemplo_2.png)
@@ -26,7 +26,7 @@
 
  - ![exemplo 5](imagens/Exemplo_5.png)
 
-## Quando um for é executado, ocorre o seguinte: 
+# Quando um for é executado, ocorre o seguinte: 
 
  #### 1. A expressão *expressao Inicial* é inicializada e, caso possível, é executada. Normalmente essa expressão inicializa um ou mais contadores, mas a sintaxe permite expressões de qualquer grau de complexidade. Podendo conter também declaração de variáveis.
 
@@ -36,5 +36,15 @@
 
  #### 4. A atualização da expressão *incremento*, se houver, executa, e retorna o controle para o passo 2.
 
-### Implementação do código exemplo de laços e iterações, antes das devidas alterações que possibilitaram selecionar mais 3 gêneros musicais e também a estilização dos campos de inserção como o elemento "input", os campos para a seleção dos gêneros musicais foi alterado nas bordas e cores.
+# Exemplo 
+
+ ## A função a seguir contém uma declaração *for* que contará o número de opções selecionadas em uma lista (um elemento *select* permite várias seleções). Dentro do *for* é declarado uma váriavel *i* inicializada com zero. A declaração *for* verifica se *i* é menor que o número de opções no elemento *select*, executa sucessivas declaração *if*, e incrementa *i* de um em um a cada passagem pelo laço. 👇
+
+ - ![exemplo 6](imagens/Exemplo_6.png)
+ - ![exemplo 7](imagens/Exemplo_7.png)
+
+
+# Código depois de todas as alteraçõs
+
+#### Implementação do código exemplo de laços e iterações, possibilitaram selecionar mais 3 gêneros musicais e também a estilização dos campos de inserção como o elemento "input", os campos para a seleção dos gêneros musicais foi alterado nas bordas e cores.
 
