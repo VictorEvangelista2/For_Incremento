@@ -44,7 +44,31 @@
  - ![exemplo 7](imagens/Exemplo_7.png)
 
 
-# Código depois de todas as alteraçõs
+# Código depois de todas as alterações
+
+## Os 3 genêros musicais que foram incrementados no código citado anteriormente. Sendo eles Rock, Sertanejo e Funk.
+
+ - ![exemplo 8](imagens/Exemplo_8.png)
+
+## As estilizações que foram realizadas em comparação com o código puro
+
+### Código Puro 
+
+ - ![exemplo 9](imagens/Exemplo_9.png)
+
+### Código Estilizado
+
+ - ![exemplo 10](imagens/Exemplo_10.png)
+
+
+# Conclusões Finais
 
 #### Implementação do código exemplo de laços e iterações, possibilitaram selecionar mais 3 gêneros musicais e também a estilização dos campos de inserção como o elemento "input", os campos para a seleção dos gêneros musicais foi alterado nas bordas e cores.
+
+# Tecnologias Utilizadas 
+
+## 
+
+
+# Autores 
 
