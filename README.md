@@ -71,23 +71,23 @@
 
 # Tecnologias Utilizadas 
 
-## [MDN web docs_](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
+ - [MDN web docs_](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration)
 
-## [W3schools](https://www.w3schools.com/js/) (JS)
+ - [W3schools](https://www.w3schools.com/js/) (JS)
 
-## [w3schools](https://www.w3schools.com/Css/) (CSS)
+ - [w3schools](https://www.w3schools.com/Css/) (CSS)
 
-## [Pipz](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+ - [Pipz](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
 
-## [jsFiddle](https://jsfiddle.net/)
+ - [jsFiddle](https://jsfiddle.net/)
 
-## [DIO articles](https://www.dio.me/articles/guia-para-organizacao-de-layout-em-html-dicas-e-melhores-praticas)
+ - [DIO articles](https://www.dio.me/articles/guia-para-organizacao-de-layout-em-html-dicas-e-melhores-praticas)
 
-## [TreinaWeb](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers)
+ - [TreinaWeb](https://www.treinaweb.com.br/blog/css-grid-um-guia-interativo-parte-1-containers)
 
-## [Alura](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item)
+ - [Alura](https://www.alura.com.br/artigos/css-grid-guia-propriedades-grid-container-grid-item)
 
 
 # Autores 
 
-# [Victor Evangelista](https://victorevangelista2.github.io/For-Incremento-Music/)
+ - [Victor Evangelista](https://victorevangelista2.github.io/For-Incremento-Music/)
