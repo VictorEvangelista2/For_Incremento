@@ -50,15 +50,17 @@
 
  - ![exemplo 8](imagens/Exemplo_8.png)
 
-## As estilizações que foram realizadas em comparação com o código puro
+# As estilizações que foram realizadas em comparação com o código puro
 
-### Código Puro 
+# Código Puro 
 
 ![exemplo 9](imagens/Exemplo_9.png)
+![Gif exemplo 1](gifs/gif-Semestilo-exemplo.gif)
 
-### Código Estilizado
+# Código Estilizado
 
 ![exemplo 10](imagens/Exemplo_10.png)
+![Gif exemplo 2](gifs/gif-estilo-atualizado.gif)
 
 
 # Conclusões Finais
@@ -88,3 +90,4 @@
 
 # Autores 
 
+# [Victor Evangelista](https://victorevangelista2.github.io/For-Incremento-Music/)
